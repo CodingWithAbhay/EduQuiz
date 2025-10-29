@@ -1,51 +1,49 @@
 # 🎓 EduQuiz Smart Contract  
 
-EduQuiz is a fun and interactive **blockchain-based quiz application** built using **Solidity**.  
-It enables educators to create quiz questions and allows students to answer them directly on the blockchain — ensuring transparency, fairness, and immutability.  
+EduQuiz is a simple and interactive **blockchain-based quiz platform** built with **Solidity**.  
+It allows educators to create quiz questions and students to answer them directly on the blockchain — bringing **education** and **Web3** together in a transparent and fun way!  
 
-This project is perfect for **beginners in Web3 development** who want to understand how smart contracts work and how decentralized apps (dApps) can revolutionize learning.
-
---- <img width="1920" height="1080" alt="Screenshot 2025-10-29 135456" src="https://github.com/user-attachments/assets/624c0be9-98b8-465b-960d-1c61bc0366ac" />
+---
+<img width="1920" height="1080" alt="Screenshot 2025-10-29 135456" src="https://github.com/user-attachments/assets/fa02b5cb-8a06-4d5e-b950-e55d55c35f71" />
 
 
 ## 📘 Project Description  
 
-The **EduQuiz** smart contract is a simple yet powerful demonstration of how **education meets blockchain**.  
-It lets a quiz creator (the contract owner) add questions and correct answers, while participants can attempt those questions on-chain.  
-Each correct answer earns the player points that are permanently recorded on the Ethereum blockchain.  
+EduQuiz demonstrates how blockchain can make learning **decentralized, transparent, and rewarding**.  
+The contract allows a **quiz creator (teacher)** to add questions with correct answers, while **students (players)** can participate by submitting their responses.  
+Each correct answer earns the student points that are securely stored on-chain.  
 
-This project introduces essential concepts like:  
-- Ownership and access control in smart contracts  
-- Data storage using **structs**, **arrays**, and **mappings**  
-- Comparing strings using **keccak256 hashing**  
-- Interacting with contracts on **Remix IDE**  
+This project is ideal for beginners who want to learn:  
+- How smart contracts work in Solidity  
+- How to use structs, arrays, and mappings  
+- Ownership control using modifiers  
+- Deploying contracts on test networks like **Celo Sepolia**  
 
 ---
 
 ## 💡 What It Does  
 
-- 🧑‍🏫 The **quiz owner** adds questions and correct answers.  
-- 🧠 **Students** can view questions and answer them.  
-- 🏆 Points are automatically awarded for correct answers.  
-- 📊 Players can check their scores anytime on-chain.  
-- 🔒 All quiz data and results are securely stored on the blockchain.  
+- 🧑‍🏫 The **owner (teacher)** can create quiz questions.  
+- 🧠 **Players (students)** can answer the questions directly on-chain.  
+- 🏆 Automatic scoring system that rewards correct answers with points.  
+- 🔍 Players can check their total scores anytime using `getMyScore()`.  
 
 ---
 
 ## ✨ Features  
 
-✅ **Owner Control** – Only the creator can add new questions.  
-✅ **Decentralized Quiz** – No central authority, no cheating.  
-✅ **Instant Scoring** – Correct answers are rewarded immediately.  
-✅ **Transparent Records** – Anyone can verify scores on-chain.  
-✅ **Beginner-Friendly** – Clean and easy-to-understand Solidity code.  
+✅ **Owner Access Control:** Only the quiz creator can add questions.  
+✅ **Transparent Scoring:** Scores are publicly visible and verifiable on-chain.  
+✅ **Immutable Records:** Once deployed, data can’t be altered — ensuring fairness.  
+✅ **Beginner-Friendly:** Easy-to-understand logic and deployment steps.  
+✅ **Fully Decentralized:** No central authority or external database.  
 
 ---
 
 ## 🔗 Deployed Smart Contract  
 
-- **Network:** Ethereum (Testnet / Remix VM)  
-- **Contract Address:** [`0xf1f691Ca80B54c8262D7bc5C1e1BC3969454eeFb`](https://etherscan.io/address/0xf1f691Ca80B54c8262D7bc5C1e1BC3969454eeFb)  
+- **Network:** Celo Sepolia Testnet  
+- **Deployed Address:** [`0xf1f691Ca80B54c8262D7bc5C1e1BC3969454eeFb`](https://celo-sepolia.blockscout.com/address/0xf1f691Ca80B54c8262D7bc5C1e1BC3969454eeFb)  
 
 ---
 
