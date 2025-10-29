@@ -5,9 +5,7 @@ It enables educators to create quiz questions and allows students to answer them
 
 This project is perfect for **beginners in Web3 development** who want to understand how smart contracts work and how decentralized apps (dApps) can revolutionize learning.
 
----
-
-![Uploading Screenshot 2025-10-29 135456.png…]()
+--- <img width="1920" height="1080" alt="Screenshot 2025-10-29 135456" src="https://github.com/user-attachments/assets/624c0be9-98b8-465b-960d-1c61bc0366ac" />
 
 
 ## 📘 Project Description  
